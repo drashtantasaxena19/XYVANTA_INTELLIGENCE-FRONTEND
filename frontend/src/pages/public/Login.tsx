@@ -134,7 +134,7 @@ export default function Login() {
                             </Link>
 
                             <img
-                                src="/logo2.png"
+                                src="/logo.png"
                                 alt="Xyvanta"
                                 className="h-11 w-11 rounded-2xl bg-white object-cover object-top shadow-sm"
                             />
